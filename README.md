@@ -5,7 +5,7 @@ A Go library for validating passwords against strict security criteria.
 ## Installation
 
 ```bash
-go get github.com/alfarioekaputra/go-validate-password
+go get github.com/StateraIO/go-validate-password
 ```
 
 ## Requirements
