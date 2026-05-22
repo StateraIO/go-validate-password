@@ -83,7 +83,7 @@ package main
 
 import (
     "fmt"
-    "github.com/alfarioekaputra/go-validate-password"
+    "github.com/StateraIO/go-validate-password"
 )
 
 func main() {
